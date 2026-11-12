@@ -9,7 +9,7 @@ A simple and convenient GUI application written in Python for mass pinging IP ad
 * **User-Friendly Interface:** Built with a clean and easy-to-use graphical interface.
 
 ## Screenshot
-![PingDesk Interface](docs/screenshots/pingdesk.png)
+![PingDesk Interface](docs/screenshots/main-window.png)
 *(Note: You can find more screenshots in the `docs` folder)*
 
 ## Tech Stack
